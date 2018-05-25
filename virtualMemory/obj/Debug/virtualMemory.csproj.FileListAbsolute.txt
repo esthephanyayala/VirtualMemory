@@ -1,0 +1,12 @@
+c:\users\esthe\onedrive\documentos\visual studio 2015\Projects\virtualMemory\virtualMemory\bin\Debug\virtualMemory.exe.config
+c:\users\esthe\onedrive\documentos\visual studio 2015\Projects\virtualMemory\virtualMemory\bin\Debug\virtualMemory.exe
+c:\users\esthe\onedrive\documentos\visual studio 2015\Projects\virtualMemory\virtualMemory\bin\Debug\virtualMemory.pdb
+c:\users\esthe\onedrive\documentos\visual studio 2015\Projects\virtualMemory\virtualMemory\obj\Debug\virtualMemory.csprojResolveAssemblyReference.cache
+c:\users\esthe\onedrive\documentos\visual studio 2015\Projects\virtualMemory\virtualMemory\obj\Debug\virtualMemory.exe
+c:\users\esthe\onedrive\documentos\visual studio 2015\Projects\virtualMemory\virtualMemory\obj\Debug\virtualMemory.pdb
+C:\Users\esthe\OneDrive\Documentos\Programas CodeBlocks\C#\Projects\virtualMemory\virtualMemory\bin\Debug\virtualMemory.exe.config
+C:\Users\esthe\OneDrive\Documentos\Programas CodeBlocks\C#\Projects\virtualMemory\virtualMemory\obj\Debug\virtualMemory.exe
+C:\Users\esthe\OneDrive\Documentos\Programas CodeBlocks\C#\Projects\virtualMemory\virtualMemory\obj\Debug\virtualMemory.pdb
+C:\Users\esthe\OneDrive\Documentos\Programas CodeBlocks\C#\Projects\virtualMemory\virtualMemory\bin\Debug\virtualMemory.exe
+C:\Users\esthe\OneDrive\Documentos\Programas CodeBlocks\C#\Projects\virtualMemory\virtualMemory\bin\Debug\virtualMemory.pdb
+C:\Users\esthe\OneDrive\Documentos\Programas CodeBlocks\C#\Projects\virtualMemory\virtualMemory\obj\Debug\virtualMemory.csprojResolveAssemblyReference.cache
